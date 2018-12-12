@@ -1,0 +1,12 @@
+name: shiny_indiv
+title: shiny_indiv
+username:
+account: yanchenwang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 610253
+bundleId: 1750523
+url: https://yanchenwang.shinyapps.io/shiny_indiv/
+when: 1544342703.1915
+asMultiple: FALSE
+asStatic: FALSE
